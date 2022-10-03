@@ -9,7 +9,7 @@
 💬 &nbsp;Feel free to reach out to ask any questions, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at marwanmagdyhawash@gmail.com! I'll try to respond as soon as I can.\
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Cat Coding" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
