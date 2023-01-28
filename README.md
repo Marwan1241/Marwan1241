@@ -4,7 +4,7 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science at Misr International University.\
-🌱 &nbsp;I'm on track for learning more about Fullstack Development.\
+🌱 &nbsp;I'm on track for learning more about Front Development Development.\
 🎮 &nbsp;In my free time, I like to play videogames.\
 💬 &nbsp;Feel free to reach out to ask any questions, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at marwanmagdyhawash@gmail.com! I'll try to respond as soon as I can.\
