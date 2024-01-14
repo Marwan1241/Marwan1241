@@ -35,7 +35,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/marwan-hawash-3aa96311a/"><img src="https://img.shields.io/badge/-Marwan%20Hawash-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/marwan_magdi1241/"><img src="https://img.shields.io/badge/-@Marwan_magdi1241_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/marwanhawashh/"><img src="https://img.shields.io/badge/-@Marwanhawashh_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/marwan.magdy.121"><img src="https://img.shields.io/badge/-@Marwan Magdy-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
