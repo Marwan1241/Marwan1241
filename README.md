@@ -71,7 +71,9 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Marwan1241&theme=tokyonight" alt="GitHub Streak"/>
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Marwan1241&theme=tokyonight)](https://git.io/streak-stats)
+
 </div>
 
 ---
