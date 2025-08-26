@@ -72,7 +72,7 @@
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Marwan1241&theme=tokyonight)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=marwan1241&theme=dark" alt="GitHub Streak" /></a>
 
 </div>
 
