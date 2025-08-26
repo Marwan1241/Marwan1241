@@ -17,12 +17,12 @@
 💡 **Innovation Enthusiast** who loves exploring cutting-edge technologies  
 🌱 **Continuous Learner** currently diving deep into Frontend Development  
 🎯 **Problem Solver** who enjoys building efficient software solutions  
-🎮 **Gaming Enthusiast** in my downtime
+🎾 **Sports Enthusiast** - I love playing padel and tennis in my downtime
 
 ### 🌟 What I Do
 
 - 🔧 Build responsive and interactive web applications
-- 📱 Develop modern user interfaces with React
+- 📱 Develop modern user interfaces with Next.js
 - 🛠️ Create robust backend solutions
 - 🎨 Design intuitive user experiences
 - 🚀 Implement innovative solutions to complex problems
@@ -33,6 +33,7 @@
 
 ### **Frontend Development**
 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -70,7 +71,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marwan1241&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Marwan1241&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -91,7 +92,7 @@
 
 ## 📈 Current Focus
 
-- 🎯 **Learning**: Advanced React patterns and state management
+- 🎯 **Learning**: Advanced Next.js patterns and full-stack development
 - 🔨 **Building**: Personal portfolio and innovative web applications
 - 📚 **Studying**: Modern JavaScript frameworks and backend technologies
 - 🌱 **Growing**: Full-stack development skills and best practices
@@ -114,7 +115,7 @@
 
 ## 💭 Fun Facts
 
-- 🎮 I'm a passionate gamer who finds inspiration in interactive experiences
+- 🎾 I'm passionate about racket sports - padel and tennis keep me active and focused
 - 🌍 I believe technology can make the world a better place
 - ☕ I code better with a good cup of coffee
 - 🎯 Always eager to learn new technologies and tackle challenging problems
